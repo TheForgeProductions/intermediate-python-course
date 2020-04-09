@@ -12,7 +12,7 @@ def main():
     else:
        print(f'You rolled a {roll}')
     dice_total += roll
-  print(f'Total: {dice_total}')
+  print(f'Total of all rolls: {dice_total}')
 
 if __name__== "__main__":
   main()
